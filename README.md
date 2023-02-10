@@ -1,15 +1,15 @@
 # Surfs_up
 
-##Overview
+## Overview
 The purpose of this module is to find pertinent information regarding the weather to better understand W. Avy's business plans. Specifically, we found the summary statistics for June and December's temperatures. In this module, students learned how to use querys, create dataframes, and generate summary statistics using sql.
 
 ## Results
 
-## June
+### June
 * June had a mean temperature of 74.94 degrees with a minimum of 64 and maximum of 85 degrees.
 
 * June's standard deviation was 3.26
-## December
+### December
 * December had a lower mean temperature of 71.04 degrees with a minimum of 56 and maximum of 83 degrees.
 
 * December had a higher standard deviation being 3.75.
